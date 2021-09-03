@@ -74,9 +74,9 @@
 <a href="https://github.com/louisefindlay23/colorflow-player">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=colorflow-player">
 </a>
+<a href="https://github.com/louisefindlay23/gitcord-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=gitcord-bot">
+</a>
 <a href="https://github.com/section-engineering-education/engineering-education">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=section-engineering-education&repo=engineering-education">
-</a>
-<a href="https://github.com/MLH-Fellowship/gitcord-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MLH-Fellowship&repo=gitcord-bot">
 </a>
