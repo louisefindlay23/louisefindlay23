@@ -62,6 +62,12 @@
   </tr>
 </table>
         
+### ✍ Technical Articles
+ 
+<!--START_SECTION:data-section-->
+        
+<!--END_SECTION:data-section-->        
+        
 ### 👁 More Info
         
 #### 🌍 Website
