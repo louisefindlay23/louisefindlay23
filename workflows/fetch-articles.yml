@@ -1,0 +1,30 @@
+name: Fetch JSON
+on:
+    rss:
+        url: https://www.section.io/engineering-education/index.xml
+    workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+    fetchjson:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Fetch JSON
+              run: |
+                  curl https://section-author-feeds.louisefindlay.com/feed/author/louise-findlay -o author.json
+                  pwd
+                  ls -l
+
+            - name: Upload File
+              uses: actions/upload-artifact@v2
+              with:
+                  name: section-feed
+                  path: author.json
+
+            - name: Read/Write data into README
+              uses: eddiejaoude/github-actions-reader-writer@v0.1.1
+              with:
+                  json-file-path: "author.json"
+                  github-token: ${{ secrets.GITHUB_TOKEN }}
+                  columns: 3
+                  object-field-names: '[ "title", "image", "link", "pubDate", "guid", "description" ]'
+                  html-cell: '<td align="center"><p><a href="{{ link }}"><img src="{{ image }}" width="300px" alt="{{ title }}"></a></p></td>'
