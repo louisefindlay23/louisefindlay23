@@ -77,11 +77,14 @@
 </a>
         
 #### 📌 Pinned Repositories
-<a href="https://github.com/louisefindlay23/colorflow-player">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=colorflow-player">
+<a href="https://github.com/louisefindlay23/youtubecommunitybot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=youtubecommunitybot">
 </a>
 <a href="https://github.com/louisefindlay23/gitcord-bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=gitcord-bot">
+</a>
+<a href="https://github.com/louisefindlay23/colorflow-player">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=colorflow-player">
 </a>
 <a href="https://github.com/section-engineering-education/engineering-education">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=section-engineering-education&repo=engineering-education">
