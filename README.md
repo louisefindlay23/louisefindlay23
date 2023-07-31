@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Louise
 
-🖥 I'm the web developer and founder of Spyrath Dev and have worked on many web projects from the custom designed WordPress sites I specialise in to fully-fledged custom developed Node.js web apps. 
+🖥 I'm a web developer and technical writer passionate about educating new developers and non-technical users about web development, demystifying complex topics, and empowering them to learn new skills and technologies they thought they couldn't.
 
-🎓 An RGU graduate, I'm always keen to continue learning. I've participated in the MLH Pre-Fellowship and WorldSkills Advanced Web Design Heat.
+🎓 As an RGU graduate, I'm always keen to continue learning. I've participated in the MLH Pre-Fellowship and WorldSkills Advanced Web Design Heat.
 
-📝 In my spare time, I write guides and tutorials about websites aimed at empowering non-technical users as well as developer tools and self-hosting.
+📝 In my spare time, I write guides to empower non-technical users to learn more about their websites and other technical areas such as email hosting and domains. I also write about useful developer tools and self-hosting applications.
         
 #### 📌 Pinned Repositories
 <a href="https://github.com/louisefindlay23/youtubecommunitybot">
