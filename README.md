@@ -11,17 +11,3 @@
 🎓 As an RGU graduate, I'm always keen to continue learning. I've participated in the MLH Pre-Fellowship and WorldSkills Advanced Web Design Heat.
 
 📝 In my spare time, I write guides to empower non-technical users to learn more about their websites and other technical areas such as email hosting and domains. I also write about useful developer tools and self-hosting applications.
-        
-#### 📌 Pinned Repositories
-<a href="https://github.com/louisefindlay23/youtubecommunitybot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=youtubecommunitybot">
-</a>
-<a href="https://github.com/louisefindlay23/gitcord-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=gitcord-bot">
-</a>
-<a href="https://github.com/louisefindlay23/colorflow-player">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=louisefindlay23&repo=colorflow-player">
-</a>
-<a href="https://github.com/section-engineering-education/engineering-education">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=section-engineering-education&repo=engineering-education">
-</a>
