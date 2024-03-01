@@ -13,8 +13,9 @@
 📝 In my spare time, I write guides to empower non-technical users to learn more about their websites and other technical areas such as email hosting and domains. I also write about useful developer tools and self-hosting applications.
 
 <div align="center">
-  
-  [![louisefindlay.com](https://github.com/louisefindlay23/louisefindlay23/assets/26024131/150b7f11-e2c3-4805-a57e-fb6b6ac44ae4)](https://louisefindlay.com)
-  [![linkedin.com/in/louise-findlay23](https://github.com/louisefindlay23/louisefindlay23/assets/26024131/0be92bf2-944b-479b-b65b-2cd22f0c57eb)](https://www.linkedin.com/in/louise-findlay23)
-
+  <a href="https://louisefindlay.com" target="_blank">
+    <img src="https://github.com/louisefindlay23/louisefindlay23/assets/26024131/150b7f11-e2c3-4805-a57e-fb6b6ac44ae4" />
+  </a>
+  <a href="https://www.linkedin.com/in/louise-findlay23" target="_blank">
+    <img src="https://github.com/louisefindlay23/louisefindlay23/assets/26024131/0be92bf2-944b-479b-b65b-2cd22f0c57eb" />
 </div>
